@@ -5,8 +5,6 @@ date:   2016-12-29 11:16:29 -0500
 categories: rsa encryption
 ---
 
-## Passing Secret Notes with RSA Encryption
-
 ### Framing the Problem
 
 RSA encryption is one of the most common ways to securely pass data through the web. Examples include SSL, SSH, digital signatures, and PGP. Writing this post helped me understand it better. Hopefully reading it will do the same for you.
